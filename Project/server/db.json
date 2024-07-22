@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "$2a$10$1sY1i9k2BUdoouwTMSD77ew3ParkUaAd89ovcZhCSeTgCvnOVFv9."
+    },
+    {
+      "id": "2",
+      "username": "asdfghjkl",
+      "email": "abc@gmail.com",
+      "password": "$2a$10$Y8MS89MyxKuacQ.s0624aujlxkzkQfOIZT9w.athWQUkwe57FDJ92"
+    },
+    {
+      "id": "3",
+      "username": "qwertyuiop",
+      "email": "qwe@gmail.com",
+      "password": "$2a$10$uqYCaTnsrMiiwle8gVhqC.6R5/1eI5vNy4jDdzDUy4sNk19.0RKBC"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1",
+      "amount": 1000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2023-07-01"
+    },
+    {
+      "id": "2",
+      "amount": 500,
+      "type": "expense",
+      "category": "Rent",
+      "date": "2023-07-05"
+    }
+  ]
+}
